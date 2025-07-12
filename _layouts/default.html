@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>{{ page.title }} | An Múinteoir Mata</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      body {
+        font-family: 'Segoe UI', 'Trebuchet MS', sans-serif;
+        background-color: #fffdee;
+        margin: 0;
+        padding: 1rem;
+        line-height: 1.6;
+      }
+      header {
+        background: #f4c430;
+        padding: 1rem;
+        text-align: center;
+        font-size: 1.8rem;
+        font-weight: bold;
+      }
+      nav {
+        margin: 1rem auto;
+        text-align: center;
+      }
+      nav a {
+        margin: 0.5rem;
+        text-decoration: none;
+        color: #1a237e;
+        font-weight: bold;
+      }
+      .content {
+        max-width: 700px;
+        margin: auto;
+      }
+      footer {
+        text-align: center;
+        margin-top: 2rem;
+        font-size: 0.9rem;
+        color: #555;
+      }
+      .coffee {
+        display: block;
+        margin-top: 1rem;
+        text-align: center;
+      }
+
+.topics a {
+  display: inline-block;
+  margin: 0.3rem 0.6rem;
+  padding: 0.4rem 0.8rem;
+  background: #fef6e4;
+  border: 1px solid #e1c542;
+  border-radius: 8px;
+  text-decoration: none;
+  color: #1a237e;
+  font-weight: 500;
+}
+.topics a:hover {
+  background: #fff3b0;
+}
+
+
+    </style>
+
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['\\(', '\\)']],
+      displayMath: [['$$', '$$']]
+    },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+    }
+  };
+</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </head>
+  <body>
+    <header>An Múinteoir Mata</header>
+    
+    <div class="content">
+  <main markdown="1">
+    {{ content }}
+  </main>
+
+      <div class="coffee">
+        <a href="https://www.buymeacoffee.com/YOURUSERNAME" target="_blank">
+          ☕ Buy Me a Coffee
+        </a>
+      </div>
+    </div>
+    <footer>
+      &copy; 2025 An Múinteoir Mata
+    </footer>
+  </body>
+</html>
