@@ -1,12 +1,4 @@
-title: An Múinteoir Mata
+title: An Muinteoir Mata
 description: Free maths help for Irish secondary school students
-baseurl: "" # leave this empty if deploying to root (e.g., GitHub Pages main site)
-url: ""      # leave this empty for local dev
-
-markdown: kramdown
-kramdown:
-  input: GFM
-  math_engine: mathjax
-  syntax_highlighter_opts:
-    disable: true
-
+baseurl: ""  # <--- Empty for user site
+url: "https://anmuinteoirmata.github.io"
