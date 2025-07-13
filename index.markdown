@@ -39,8 +39,8 @@ Click on a topic below to learn about it.
   <a href="/anmuinteoirmata/topics/probability.html">Probability</a>
   <a href="/anmuinteoirmata/topics/statistics.html">Descriptive Statistics</a>
   <a href="/anmuinteoirmata/topics/statistics2.html">Inferential Statistics</a>
-  <a href="/anmuinteoirmata/topics/induction/index.html">Induction</a>
-  <a href="/anmuinteoirmata/topics/graphs/index.html">Graphs</a>
+  <a href="/anmuinteoirmata/topics/induction/induction.html">Induction</a>
+  <a href="/anmuinteoirmata/topics/graphs/graphs.html">Graphs</a>
   <a href="https://www.mathopenref.com/tocs/constructionstoc.html"
    target="_blank"
    rel="noopener noreferrer">
