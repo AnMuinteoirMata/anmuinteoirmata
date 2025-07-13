@@ -1,4 +1,5 @@
 title: An Muinteoir Mata
 description: Free maths help for Irish secondary school students
-baseurl: ""  # <--- Empty for user site
+theme: minima
+baseurl: "/anmuinteoirmata"  # <--- Empty for user site
 url: "https://anmuinteoirmata.github.io"
