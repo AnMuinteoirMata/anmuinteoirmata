@@ -28,7 +28,6 @@ Click on a topic below to learn about it.
   <a href="/anmuinteoirmata/topics/circle.html">The Circle</a>
   <a href="/anmuinteoirmata/topics/areavolume.html">Area & Volume</a>
   <a href="/anmuinteoirmata/topics/geometry.html">Geometry</a>
-  <a href="/anmuinteoirmata/topics/enlargements.html">Enlargements</a>
   <a href="/anmuinteoirmata/topics/complexnumbers.html">Complex Numbers</a>
   <a href="/anmuinteoirmata/topics/functions.html">Functions</a>
   <a href="/anmuinteoirmata/topics/differentiation.html">Differentiation</a>
