@@ -21,7 +21,7 @@ title: Trigonometry
   135^\circ = \frac{135\pi}{180} = \frac{3\pi}{4} \text{ radians}
   $$</div>
 
-  <!-- Insert Degrees-Radians Diagram -->
+  <img src="/anmuinteoirmata/images/degrees.png" alt="degrees and radiands" style="max-width:100%; height:auto; margin:1rem 0; border:1px solid #ccc;">
 
   <hr>
 
