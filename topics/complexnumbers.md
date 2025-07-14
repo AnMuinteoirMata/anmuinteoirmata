@@ -115,7 +115,7 @@ title: Complex Numbers
     <li>Vertical axis = imaginary part</li>
   </ul>
 
-<img src="/anmuinteoirmata/assets/images/argand-diagram.png" alt="Argand Diagram" style="max-width:100%; height:auto; margin:1rem 0; border:1px solid #ccc;">
+<img src="/anmuinteoirmata/images/argand.png" alt="Argand Diagram" style="max-width:100%; height:auto; margin:1rem 0; border:1px solid #ccc;">
 
 
 
