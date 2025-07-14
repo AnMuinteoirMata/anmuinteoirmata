@@ -115,6 +115,7 @@ title: Complex Numbers
     <li>Vertical axis = imaginary part</li>
   </ul>
 
-  <p><strong>Example:</strong> Plot \( 2 + 3i \), \( -1 + i \), \( -2 - 2i \)</p>
+  <img src="/anmuinteoirmata/images/argand.png" alt="Argand Diagram">
+
 
 </div>
