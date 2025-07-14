@@ -39,7 +39,7 @@ title: Trigonometry
   \sin \theta = \frac{6}{10} = 0.6 \Rightarrow \theta = \sin^{-1}(0.6) \approx 36.87^\circ
   $$</div>
 
-  <img src="/images/right.png" alt="degrees and radians" style="max-width:100%; height:auto; margin:1rem 0; border:1px solid #ccc;">
+  <img src="/images/right.png" alt="right" style="max-width:100%; height:auto; margin:1rem 0; border:1px solid #ccc;">
 
   <hr>
 
