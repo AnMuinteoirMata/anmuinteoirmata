@@ -14,7 +14,7 @@ title: Lines & Analytical Geometry
     d(P,Q) = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
   $$</div>
   <figure>
-    <img src="{{ '/assets/images/line01.svg' | relative_url }}" alt="Distance between two points">
+    <img src="/images/geometry1.png" alt="geometry1">
     <figcaption>Distance \(PQ\).</figcaption>
   </figure>
   <p><strong>Example:</strong> \(P(1,2)\), \(Q(4,6)\) ⇒  
