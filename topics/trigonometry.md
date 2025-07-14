@@ -21,7 +21,7 @@ title: Trigonometry
   135^\circ = \frac{135\pi}{180} = \frac{3\pi}{4} \text{ radians}
   $$</div>
 
-  <img src="/anmuinteoirmata/images/degrees.png" alt="degrees and radiands" style="max-width:100%; height:auto; margin:1rem 0; border:1px solid #ccc;">
+  <img src="/images/degrees.png" alt="degrees and radiands" style="max-width:100%; height:auto; margin:1rem 0; border:1px solid #ccc;">
 
   <hr>
 
@@ -39,7 +39,7 @@ title: Trigonometry
   \sin \theta = \frac{6}{10} = 0.6 \Rightarrow \theta = \sin^{-1}(0.6) \approx 36.87^\circ
   $$</div>
 
-  <!-- Insert Right-Angled Triangle Diagram -->
+  <img src="/images/right.png" alt="degrees and radians" style="max-width:100%; height:auto; margin:1rem 0; border:1px solid #ccc;">
 
   <hr>
 
@@ -57,7 +57,7 @@ title: Trigonometry
   \sin 30^\circ = \frac{1}{2},\quad \cos 30^\circ = \frac{\sqrt{3}}{2}
   $$</div>
 
-  <!-- Insert Special Triangle Diagram -->
+  <img src="/images/special.png" alt="special" style="max-width:100%; height:auto; margin:1rem 0; border:1px solid #ccc;">
 
   <hr>
 
