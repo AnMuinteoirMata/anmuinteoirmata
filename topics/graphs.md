@@ -65,7 +65,7 @@ title: Graphs
     y = a x^2 + b x + c,\quad a < 0
   $$</div>
   <figure>
-    <img src="{{ '/assets/images/graph05.svg' | relative_url }}" alt="Negative quadratic graph">
+    <img src="/anmuinteoirmata/images/graphs5.png" alt="graphs5">
     <figcaption>Graph of \(y = a x^2 + b x + c\), \(a<0\).</figcaption>
   </figure>
   <p><strong>Example:</strong> \(y = -x^2 + 4x - 3\) is a parabola opening down.</p>
@@ -78,7 +78,7 @@ title: Graphs
     y = a(x - h)^2 + k
   $$</div>
   <figure>
-    <img src="{{ '/assets/images/graph06.svg' | relative_url }}" alt="Parabola vertex form graph">
+    <img src="/anmuinteoirmata/images/graphs6.png" alt="graphs6">
     <figcaption>Graph of \(y = a(x - h)^2 + k\) with vertex \((h,k)\).</figcaption>
   </figure>
   <p><strong>Example:</strong> \(y = 2(x - 1)^2 + 3\) has vertex at \((1,3)\).</p>
@@ -91,7 +91,7 @@ title: Graphs
     y = -x^3
   $$</div>
   <figure>
-    <img src="{{ '/assets/images/graph07.svg' | relative_url }}" alt="Negative cubic graph">
+    <img src="/anmuinteoirmata/images/graphs7.png" alt="graphs7">
     <figcaption>Graph of \(y = -x^3\).</figcaption>
   </figure>
   <p><strong>Example:</strong> \(y = -(x-1)^3\) shifts it right by 1.</p>
@@ -104,7 +104,7 @@ title: Graphs
     y = x^3
   $$</div>
   <figure>
-    <img src="{{ '/assets/images/graph08.svg' | relative_url }}" alt="Positive cubic graph">
+    <img src="/anmuinteoirmata/images/graphs8.png" alt="graphs8">
     <figcaption>Graph of \(y = x^3\).</figcaption>
   </figure>
   <p><strong>Example:</strong> \(y = (x+2)^3\) shifts it left by 2.</p>
@@ -117,7 +117,7 @@ title: Graphs
     y = |x|
   $$</div>
   <figure>
-    <img src="{{ '/assets/images/graph09.svg' | relative_url }}" alt="Modulus graph">
+    <img src="/anmuinteoirmata/images/graphs9.png" alt="graphs9">
     <figcaption>Graph of \(y = |x|\).</figcaption>
   </figure>
   <p><strong>Example:</strong> \(y = |x - 1|\) shifts vertex to \((1,0)\).</p>
@@ -130,7 +130,7 @@ title: Graphs
     y = \frac{1}{x}
   $$</div>
   <figure>
-    <img src="{{ '/assets/images/graph10.svg' | relative_url }}" alt="Rational graph">
+    <img src="/anmuinteoirmata/images/graphs10.png" alt="graphs10">
     <figcaption>Graph of \(y = \tfrac{1}{x}\).</figcaption>
   </figure>
   <p><strong>Example:</strong> \(y = \tfrac{2}{x-1}\) shifts vertical asymptote to \(x=1\).</p>
@@ -143,7 +143,7 @@ title: Graphs
     y = a^x,\quad a>0,\;a\neq1
   $$</div>
   <figure>
-    <img src="{{ '/assets/images/graph11.svg' | relative_url }}" alt="Exponential graph">
+    <img src="/anmuinteoirmata/images/graphs11.png" alt="graphs11">
     <figcaption>Graph of \(y = a^x\).</figcaption>
   </figure>
   <p><strong>Example:</strong> \(y = 2^x\) grows as \(x\) increases.</p>
@@ -156,7 +156,7 @@ title: Graphs
     y = \log_a x,\quad a>0,\;a\neq1
   $$</div>
   <figure>
-    <img src="{{ '/assets/images/graph12.svg' | relative_url }}" alt="Logarithmic graph">
+    <img src="/anmuinteoirmata/images/graphs12.png" alt="graphs12">
     <figcaption>Graph of \(y = \log_a x\).</figcaption>
   </figure>
   <p><strong>Example:</strong> \(y = \ln x\) uses base \(e\).</p>
@@ -169,7 +169,9 @@ title: Graphs
     y = \sin x,\quad y = \cos x,\quad y = \tan x
   $$</div>
   <figure>
-    <img src="{{ '/assets/images/graph13.svg' | relative_url }}" alt="Trigonometric graphs">
+    <img src="/anmuinteoirmata/images/graphs13.png" alt="graphs13"> 
+    <img src="/anmuinteoirmata/images/graphs14.png" alt="graphs14"> 
+    <img src="/anmuinteoirmata/images/graphs15.png" alt="graphs15"> 
     <figcaption>Graphs of \(\sin x\), \(\cos x\), and \(\tan x\).</figcaption>
   </figure>
   <p><strong>Example:</strong> \(y = \sin x\) oscillates between \(-1\) and \(1\) with period \(2\pi\).</p>
