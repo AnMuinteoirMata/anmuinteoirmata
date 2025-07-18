@@ -13,7 +13,7 @@ title: Graphs
     y = m x + c
   $$</div>
   <figure>
-    <img src="{{ '/assets/images/graph01.svg' | relative_url }}" alt="Straight line graph">
+    <img src="/anmuinteoirmata/images/graphs1.png" alt="graphs1">
     <figcaption>Graph of \(y = m x + c\).</figcaption>
   </figure>
   <p><strong>Example:</strong> \(y = 2x + 1\) has slope 2 and y-intercept 1.</p>
@@ -26,7 +26,7 @@ title: Graphs
     x = k
   $$</div>
   <figure>
-    <img src="{{ '/assets/images/graph02.svg' | relative_url }}" alt="Vertical line graph">
+    <img src="/anmuinteoirmata/images/graphs2.png" alt="graphs2">
     <figcaption>Graph of \(x = k\).</figcaption>
   </figure>
   <p><strong>Example:</strong> \(x = 3\) is a line parallel to the y-axis at \(x=3\).</p>
@@ -39,7 +39,7 @@ title: Graphs
     y = k
   $$</div>
   <figure>
-    <img src="{{ '/assets/images/graph03.svg' | relative_url }}" alt="Horizontal line graph">
+    <img src="/anmuinteoirmata/images/graphs3.png" alt="graphs3">
     <figcaption>Graph of \(y = k\).</figcaption>
   </figure>
   <p><strong>Example:</strong> \(y = -2\) is a line parallel to the x-axis at \(y=-2\).</p>
@@ -52,7 +52,7 @@ title: Graphs
     y = a x^2 + b x + c,\quad a > 0
   $$</div>
   <figure>
-    <img src="{{ '/assets/images/graph04.svg' | relative_url }}" alt="Positive quadratic graph">
+    <img src="/anmuinteoirmata/images/graphs4.png" alt="graphs4">
     <figcaption>Graph of \(y = a x^2 + b x + c\), \(a>0\).</figcaption>
   </figure>
   <p><strong>Example:</strong> \(y = x^2 - 2x + 1\) is a parabola opening up.</p>
