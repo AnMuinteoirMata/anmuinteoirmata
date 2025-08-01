@@ -1,12 +1,12 @@
 ---
-layout: default
+
 title: Home
 ---
 
-Welcome to **An Múinteoir Mata** — a free maths website for Irish secondary students. 
+Welcome to **An Múinteoir Mata** — a free maths resource for Irish secondary students. 
 
 
-Click on a topic below to learn about it. 
+Contact Email : anmuinteoirmata@gmail.com
 
 ---
 
