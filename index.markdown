@@ -40,7 +40,11 @@ Click on a topic below to learn about it.
   <a href="/anmuinteoirmata/topics/statistics.html">Descriptive Statistics</a>
   <a href="/anmuinteoirmata/topics/statistics2.html">Inferential Statistics</a>
   <a href="/anmuinteoirmata/topics/induction.html">Induction</a>
-  <a href="/anmuinteoirmata/topics/graphs.html">Graphs</a>
+  <a href="https://prep.math.lsa.umich.edu/cgi-bin/pmc/crtopic?sxn=14&top=1&crssxn=prep"
+    target="_blank"
+   rel="noopener noreferrer
+  Graphs
+</a>
   <a href="https://www.mathopenref.com/tocs/constructionstoc.html"
    target="_blank"
    rel="noopener noreferrer">
