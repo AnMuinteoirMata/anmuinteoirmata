@@ -4,8 +4,9 @@ title: Geometry Theorems
 ---
 
 <div>
-
-  *Images for below theorems can be found on [cuemath.com](https://www.cuemath.com/geometry/) or [study.com](https://study.com/).*
+  <hr>
+   
+  *Images for below theorems can be found on [cuemath.com](https://www.cuemath.com/geometry/)*
 
   <hr>
 
@@ -220,5 +221,6 @@ If the original length is *L* and the scale factor is *k*,
 then the new length is *kL*.
 
 ---
+
 
 
