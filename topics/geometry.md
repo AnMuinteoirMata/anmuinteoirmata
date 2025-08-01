@@ -4,20 +4,8 @@ title: Geometry Theorems
 ---
 
 <div>
-  <h2>Geometry: Key Terms</h2>
-  <ul>
-    <li><strong>Point:</strong> an exact location, no size.</li>
-    <li><strong>Line:</strong> extends infinitely in two directions, no thickness.</li>
-    <li><strong>Ray:</strong> part of a line with one endpoint.</li>
-    <li><strong>Segment:</strong> part of a line between two endpoints.</li>
-    <li><strong>Angle:</strong> formed by two rays meeting at a vertex.</li>
-    <li><strong>Parallel lines:</strong> coplanar lines that never meet.</li>
-    <li><strong>Perpendicular:</strong> lines that meet at a right angle (90°).</li>
-    <li><strong>Triangle:</strong> three-sided polygon, classified by sides (isosceles, equilateral) or angles (acute, right, obtuse).</li>
-    <li><strong>Circle:</strong> set of points equidistant from a center.</li>
-    <li><strong>Chord:</strong> segment whose endpoints lie on a circle.</li>
-    <li><strong>Tangent:</strong> line that touches a circle at exactly one point.</li>
-  </ul>
+
+  *Images for below theorems can be found on [cuemath.com](https://www.cuemath.com/geometry/) or [study.com](https://study.com/).*
 
   <hr>
 
@@ -233,4 +221,4 @@ then the new length is *kL*.
 
 ---
 
-*Images for above theorems can be found on [cuemath.com](https://www.cuemath.com/geometry/) or [study.com](https://study.com/).*
+
