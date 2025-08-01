@@ -42,7 +42,7 @@ Click on a topic below to learn about it.
   <a href="/anmuinteoirmata/topics/induction.html">Induction</a>
   <a href="https://prep.math.lsa.umich.edu/cgi-bin/pmc/crtopic?sxn=14&top=1&crssxn=prep"
     target="_blank"
-   rel="noopener noreferrer>
+   rel="noopener noreferrer">
   Graphs
 </a>
   <a href="https://www.mathopenref.com/tocs/constructionstoc.html"
