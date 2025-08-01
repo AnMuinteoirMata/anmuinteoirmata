@@ -6,7 +6,7 @@ title: Geometry Theorems
 <div>
   <hr>
    
-  *Images for below theorems can be found on [cuemath.com](https://www.cuemath.com/geometry/)*
+  *Images for below theorems can be found on [cuemath.com]https://www.cuemath.com/learn/geometry-theorems/*
 
   <hr>
 
